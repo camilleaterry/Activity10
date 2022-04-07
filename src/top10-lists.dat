@@ -1,0 +1,18 @@
+[
+  {
+    "id": 100100,
+    "title": "Top 10 IMDB Movies",
+    "description": "The top 10 movies of IMDB...",
+    "public": true,
+    "votes": 0,
+    "rating": 8.8,
+    "votes": 819812,
+    "createdAt": "2022-03-14T00:00:00.000Z",
+    "movies": [
+      "The Shawshank Redemption", "The Godfather", "The Godfather: Part II", 
+      "Pulp Fiction",  "The Good, the Bad and the Ugly", "The Dark Knight", 
+      "12 Angry Men", "Schindler's List", "The Lord of the Rings: The Return of the King", 
+      "Fight Club"
+    ]
+  }
+]

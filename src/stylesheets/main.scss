@@ -1,0 +1,25 @@
+$primary: #8540f5;
+$danger: #d63384;
+$pagination-border-width: 0;
+$box-shadow: 0 .5rem 1rem rgba($primary, .5);
+@import '~bootstrap/scss/bootstrap';
+
+.half-rounded-box {
+  border-radius: 2rem 0 2rem 0;
+}
+
+.with-border-inbetween{
+  & > div {
+    margin-top: 1.5rem;
+    padding-bottom: 1.5rem ;
+  }
+  & > div:not(:last-child) {
+    border-bottom: 1px solid $border-color;
+  }
+}
+.breadcrumb-end > nav {
+  float: right;
+}
+// .page-link {
+//   border: none;
+// }
